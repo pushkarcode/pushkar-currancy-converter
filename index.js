@@ -6,7 +6,8 @@ const freecurrencyapi = new Freecurrencyapi(
 
 
   convertCurrancy("INR","USD",3);
-
+ // ! this function get Api from FreecurrencyApi
+ 
  export async function convertCurrancy(fromCurrancy, toCurrancy,units)  {
       const res = await freecurrencyapi
       .latest({

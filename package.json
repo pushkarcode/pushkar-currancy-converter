@@ -1,5 +1,5 @@
 {
-  "name": "pushkar-currency-conerter",
+  "name": "pushkar-currency-converter",
   "version": "1.0.0",
   "description": "An npm package to convert currency of every nation 🔥",
   "main": "index.js",
