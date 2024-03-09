@@ -1,0 +1,26 @@
+{
+  "name": "pushkar-currency-conerter",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency of every nation 🔥",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pushkarcode/pushkar-currancy-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Pushkar Sharma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pushkarcode/pushkar-currancy-converter/issues"
+  },
+  "homepage": "https://github.com/pushkarcode/pushkar-currancy-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
